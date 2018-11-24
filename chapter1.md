@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Functions That Return Date And Time
 
 ```yaml
 type: VideoExercise
